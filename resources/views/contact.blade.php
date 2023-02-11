@@ -16,7 +16,7 @@
                 <h2>Номер телефона: 8(923)648-14-12</h2>
                 <h2>email: shop@mail.ru</h2>
                 <div class='logoimg'>
-                <img class='logoinfo' src="/public/logo.png" alt="" srcset="" >
+
                 </div>
             </div>
         </div>
